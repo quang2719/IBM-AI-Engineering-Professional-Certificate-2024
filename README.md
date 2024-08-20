@@ -1,4 +1,7 @@
 # IBM AI Engineering Professional Certificate Notebooks 💻
+[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+[![IBM](https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/)
+<br>
 Welcome to my repository showcasing notebooks and projects from the IBM AI Engineering Professional Certificate course on Coursera! 🚀
 *This repository contains my notebooks and projects from the IBM AI Engineering Professional Certificate course on Coursera. I gained hands-on experience with key AI concepts and tools. Check out the course here*⬇️
 [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer?myLearningTab=COMPLETED)
