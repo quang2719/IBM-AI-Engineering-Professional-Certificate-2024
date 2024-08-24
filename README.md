@@ -34,3 +34,6 @@ In this repository, you'll find Jupyter notebooks containing my exercises, proje
 Feel free to use this repository as a reference or inspiration for your own AI projects. You are welcome to clone, modify, and share these notebooks.
 
 Let me know if you have any questions or feedback! 😊
+## Contact
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nv-ptit/)
